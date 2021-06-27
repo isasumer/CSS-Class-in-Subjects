@@ -1,0 +1,12 @@
+div{
+    border: 3px solid black;
+}
+img{
+    float: right;
+}
+
+.clearfix{
+    content: "";
+    clear: right;
+    display: table;
+}
