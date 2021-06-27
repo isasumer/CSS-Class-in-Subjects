@@ -1,0 +1,42 @@
+h1{
+    text-align: center;    
+}
+.visible{
+    background-color: burlywood;
+    width: auto;
+    height: auto;
+    border: 3px solid rgb(255, 68, 0);
+    overflow: visible;
+}
+
+.hidden {
+    background-color: cornflowerblue;
+    width: 300px;
+    height: 50px;
+    border: 3px solid darkblue;
+    overflow: hidden;
+}
+
+.scroll {
+    background-color: cornflowerblue;
+    width: 300px;
+    height: 50px;
+    border: 3px solid darkblue;
+    overflow: scroll;
+}
+.Auto {
+    background-color: green;
+    width: 300px;
+    height: 50px;
+    border: 3px solid teal;
+    overflow: auto;
+}
+
+.overflow_x-y{
+    background-color: violet;
+    width:600px;
+    height: 70px;
+    border: 3px solid gray;
+    overflow-x: scroll;
+    overflow-y:scroll ;
+}
