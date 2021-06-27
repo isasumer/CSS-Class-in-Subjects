@@ -1,0 +1,49 @@
+.head1{
+    color:purple;
+}
+.head2 {
+    color: royalblue;
+}
+.head3{
+    color:green;
+}
+
+.head2 {
+    color: royalblue;
+}
+
+span.a{
+    display: inline;
+    width:200 px;
+    height:100px;
+    padding: 5px;
+    border: 2px solid greenyellow;
+    background-color:rgb(160, 33, 160);
+    color:white;
+}
+span.b{
+    display: inline-block;
+    width:100px;
+    height: 50px;
+    padding: 5px;
+    border: 2px solid yellow;
+    background-color: royalblue;
+}
+span.c{
+    display: block;
+    width:100px;
+    height: 50px;
+    padding: 5px;
+    border: 2px solid yellow;
+    background-color: green;
+}
+span.d{
+    /*display: none;*/
+    visibility: hidden;
+    width:100px;
+    height: 50px;
+    padding: 5px;
+    border: 2px solid yellow;
+    background-color: orange;
+
+}
