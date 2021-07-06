@@ -43,6 +43,6 @@ h3{
 
 @media (min-width:850px) and (max-width:950px){
     body {
-        background-color: grey;
+        background-color: blue;
     }
 }
